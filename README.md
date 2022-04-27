@@ -38,7 +38,7 @@ Bom o objetivo desse projeto e densolver uma aplicação aonde eu possa gerencia
 
 No diretório do projeto, você pode executar:
 
-### 'começo de fio'
+### 'npm start'
 
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
@@ -46,12 +46,12 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 A página será recarregada se você fizer edições.\
 Você também verá quaisquer erros de fiapos no console.
 
-### 'teste de fios'
+### 'npm test'
 
 Lança o corredor de teste no modo de relógio interativo.\
 Consulte a seção sobre [testes de execução](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
-### 'construção de fios'
+### 'npm build'
 
 Constrói o aplicativo para produção na pasta 'build'.\
 Ele empacota corretamente React no modo de produção e otimiza a compilação para o melhor desempenho.
@@ -61,7 +61,7 @@ Seu aplicativo está pronto para ser implantado!
 
 Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
 
-### 'ejetar fios'
+### 'npm eject'
 
 **Nota: esta é uma operação unidiredireção. Uma vez que você 'ejete', você não pode voltar!**
 
