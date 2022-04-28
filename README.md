@@ -15,25 +15,25 @@ Bom o objetivo desse projeto e densolver uma aplicação aonde eu possa gerencia
 
 ## METAS EM DESENVOLVIMENTO: 
 - [:heavy_check_mark:] Estruturando Projeto
-- [ ] Navbar e footer
-- [ ] Pagina Home
-- [ ] Pagina formulário do projeto
-- [ ] Componentização de formulário
-- [ ] Conectando com apis
-- [ ] Inserindo dados no banco de dados via Api
-- [ ] Mesagens do sistemas
-- [ ] Criando o Deshboard
-- [ ] Resgatando projetos do banco de dados
-- [ ] Criando componentes de loader
-- [ ] Removendo projetos
-- [ ] Pagina de edição de dados
-- [ ] Exibindo detalhes do projeto
-- [ ] Atualização do 
-- [ ] Criando área de serviço
-- [ ] Adicionando novos serviços
-- [ ] Exibindo os novos serviços
-- [ ] Removendo serviços
-- [ ] Exibindo detalhes do projeto
+- [:x:] Navbar e footer
+- [:x:] Pagina Home
+- [:x:] Pagina formulário do projeto
+- [:x:] Componentização de formulário
+- [:x:] Conectando com apis
+- [:x:] Inserindo dados no banco de dados via Api
+- [:x:] Mesagens do sistemas
+- [:x:] Criando o Deshboard
+- [:x:] Resgatando projetos do banco de dados
+- [:x:] Criando componentes de loader
+- [:x:] Removendo projetos
+- [:x:] Pagina de edição de dados
+- [:x:] Exibindo detalhes do projeto
+- [:x:] Atualização do 
+- [:x:] Criando área de serviço
+- [:x:] Adicionando novos serviços
+- [:x:] Exibindo os novos serviços
+- [:x:] Removendo serviços
+- [:x:] Exibindo detalhes do projeto
 ## Scripts disponíveis
 
 No diretório do projeto, você pode executar:
