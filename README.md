@@ -18,7 +18,7 @@ Bom o objetivo desse projeto e densolver uma aplicação aonde eu possa gerencia
 - [:heavy_check_mark:] Navbar e footer
 - [:heavy_check_mark:] Pagina Home
 - [:heavy_check_mark:] Pagina formulário do projeto
-- [:x:] Componentização de formulário
+- [:heavy_check_mark:] Componentização de formulário
 - [:x:] Conectando com apis
 - [:x:] Inserindo dados no banco de dados via Api
 - [:x:] Mesagens do sistemas

@@ -6,7 +6,7 @@ function NewProject(){
         <section className={Style.NewProject_Conteiner}>
             <h1>Criar Projeto</h1>
             <p>Crie seu projeto para depois adicionar os servirços.</p>
-            <ProjectForm/>
+            <ProjectForm btntext='Criar Projeto'/>
         </section>
     )
 }

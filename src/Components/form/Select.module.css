@@ -1,0 +1,16 @@
+.form_controler{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.form_controler option{
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.form_controler select{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
