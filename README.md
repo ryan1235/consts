@@ -14,7 +14,7 @@ Bom o objetivo desse projeto e densolver uma aplicação aonde eu possa gerencia
 [uuid]
 
 ## METAS EM DESENVOLVIMENTO: 
-- [ ] Estruturando Projeto
+- [x] Estruturando Projeto
 - [ ] Navbar e footer
 - [ ] Pagina Home
 - [ ] Pagina formulário do projeto
