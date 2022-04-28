@@ -14,20 +14,24 @@ import {
 // --Layouts--
 import Navbar from './Components/layout/Navbar.js';
 import Conteiner from './Components/layout/Conteiner.js';
+import Projects from './Components/pages/Projects.js';
+import Footer from './Components/layout/Footer.js';
 
 function App() {
   return (
-    <Conteiner customClass='min-hight'>
         <BrowserRouter>
-            <Navbar></Navbar>
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/Company" element={<Company />} />
-              <Route path="/Contact" element={<Contact />} />
-              <Route path="/NewProject" element={<NewProject />} />
-            </Routes>
+            <Navbar/>
+              <Conteiner customClass='min-hight'>
+                <Routes>
+                  <Route path="/" element={<Home />} />
+                  <Route path="/Company" element={<Company />} />
+                  <Route path="/Contact" element={<Contact />} />
+                  <Route path="/NewProject" element={<NewProject />} />
+                  <Route path="/Projects" element={<Projects />} />
+                </Routes>
+              </Conteiner>
+            <Footer/>
       </BrowserRouter>
-     </Conteiner>
   );
 }
 

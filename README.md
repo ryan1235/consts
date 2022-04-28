@@ -15,7 +15,7 @@ Bom o objetivo desse projeto e densolver uma aplicação aonde eu possa gerencia
 
 ## METAS EM DESENVOLVIMENTO: 
 - [:heavy_check_mark:] Estruturando Projeto
-- [:x:] Navbar e footer
+- [:heavy_check_mark:] Navbar e footer
 - [:x:] Pagina Home
 - [:x:] Pagina formulário do projeto
 - [:x:] Componentização de formulário

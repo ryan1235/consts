@@ -1,0 +1,32 @@
+.footer{
+    padding: 15px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+.coppy{
+    text-align: center;
+}
+
+.coppy svg{
+    font-size: 3rem;
+    color: #FFBB33;
+}
+.social_list {
+    display: flex;
+    gap: 1em;
+    list-style: none;
+}
+.social_list svg{
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+.social_list svg:hover{
+    color: #FFBB33;
+}
+.social_list a{
+    color: white;
+}

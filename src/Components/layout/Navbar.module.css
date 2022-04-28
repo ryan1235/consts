@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+    align-items: center;
+    background-color: #222;
+}
+.list{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+.itens{
+    margin-right: 1em;
+}
+.itens a{
+    color: white;
+    text-decoration: none;
+    transition: font-size .5s;
+}
+.itens a:hover{
+    color: #FFBB33;
+    font-size: 105%;
+}
